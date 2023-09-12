@@ -1,0 +1,20 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+
+# builds
+build
+dist
+artifacts
+coverage
+types
+
+# Logs
+logs
+*.log
+
+# misc
+.DS_Store
+.idea
+.vscode
